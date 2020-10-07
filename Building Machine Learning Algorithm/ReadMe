@@ -1,0 +1,39 @@
+# About the Task
+
+#Purpose: The purpose of this assignment is to design a machine learning model which is capable to predict the probability of the person having a heart disease.
+
+#Value: The fundamental values depicted by this assignment is that it can lead to faster diagnostic which saves time and ultimately it contributes to save many lives.
+
+#Design Methodology: To make this model functional , many algorithms have been used to train and test the data. The two main classifiers used are ‘Decision Tree classifier’ and ‘Random Forest Classifier’.
+
+#Findings: This technology delivers reliability to users and can also be used to predict the probability of features other than heart diseases.
+
+#Platforms Used
+
+The machine learning model requires an IDE, using IDE aids to
+access a number of different modules and libraries which
+promotes features like data analysis, data manipulation and many
+more.
+
+#Python :
+Our project is totally Python based. Python is really powerful
+scripting language, and best when it comes to Scientific
+calculations. From data extraction to prediction, python plays
+significant role.
+
+#Anaconda - Jupyter :
+This is a powerful tool for machine learning, it is both local and
+cloud bases, multiple members can work on a project connecting
+to cloud from anywhere. It has many inbuilt functions.
+
+#Numpy :
+Numpy is in Python Library, which gives a full performance when
+array object comes into play.
+
+#Pandas:
+Pandas is used to manipulate the data and ease to use data
+structure.
+
+#Scikit Learn :
+It is an open source machine learning tool for python. It includes various classifiers which
+helps in solving classification and regression problems.
